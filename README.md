@@ -1,4 +1,4 @@
-# vlesscollector
+# Vlesscollector
 
 ## توضیحات پروژه
 **vlesscollector** یک ابزار جمع‌آوری‌کننده خودکار است که کانفیگ‌های VLESS (پروتکل پروکسی مبتنی بر V2Ray/V2Fly) را از سراسر اینترنت اسکن و جمع‌آوری می‌کند. این پروژه کانفیگ‌های جمع‌آوری‌شده را تست می‌کند تا فقط موارد **کارکننده** را شناسایی کند. سپس، لیست کانفیگ‌های معتبر را به صورت زیر در مخزن آپلود می‌کند:
@@ -17,7 +17,7 @@
 ## نحوه استفاده
 لینک سابسکریپشن را کپی کنید:
    ```
-https://raw.githubusercontent.com/Vlesscollector/Vlesscollector/refs/heads/main/vless_configs.txt
+https://raw.githubusercontent.com/vlesscollector/Vlesscollector/refs/heads/main/vless_configs.txt
    ```
 **نکته**: این پروژه فقط برای اهداف آموزشی و تست است. برای استفاده واقعی، همیشه از منابع معتبر استفاده کنید.
 
