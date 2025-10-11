@@ -30,9 +30,9 @@
 - 🔗 **لینک Subscription:**  
   مناسب برای کلاینت‌های V2Ray مثل **V2RayN**, **Qv2ray**, یا **Nekobox**.  
 
-   ```
+```
 https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/vless_configs.txt
-   ```
+```
 
 - 🤖 **ربات Telegram:**  
 دسترسی آسان به لیست کانفیگ‌ها از طریق ربات تلگرام 👇  
