@@ -1,8 +1,8 @@
 <div align="center">
 
-#⚡️ Vless Collector
 
 ### 🛰️ **Automatic VLESS Config Scanner & Updater**
+
 #### جمع‌آوری، تست، و به‌روزرسانی خودکار کانفیگ‌های رایگان VLESS
 
 [![Telegram](https://img.shields.io/badge/Telegram%20Bot-Join%20Now-blue?logo=telegram&style=for-the-badge)](https://t.me/vlessconfigcollectorbot)
@@ -15,8 +15,7 @@
 
 ## 📖 توضیحات پروژه
 
-پروژه **Vless Collector** یک ابزار هوشمند و خودکار است که کانفیگ‌های **VLESS**  
-(پروتکل پروکسی مبتنی بر V2Ray/V2Fly) را از سراسر اینترنت جمع‌آوری، تست و فیلتر می‌کند.  
+پروژه **Vless Collector** یک ابزار هوشمند و خودکار است که کانفیگ‌های **VLESS** (پروتکل پروکسی مبتنی بر V2ray) را از سراسر اینترنت جمع‌آوری، تست و فیلتر می‌کند.  
 
 ✅ **هدف:** شناسایی و اشتراک‌گذاری فقط کانفیگ‌های سالم و فعال از منابع عمومی.
 
@@ -24,17 +23,17 @@
 
 ## 📦 خروجی‌های پروژه
 
-- 🧾 **فایل TXT:**  
-  لیست کامل کانفیگ‌های VLESS (base64-encoded) برای استفاده مستقیم.
-
-- 🔗 **لینک Subscription:**  
+🧾 **فایل TXT:**  
+  لیست کامل کانفیگ‌های Vless برای استفاده کانفیگ ها به طور مستقیم.
+  
+🔗 **لینک Subscription:**  
   مناسب برای کلاینت‌های V2Ray مثل **V2RayN**, **Qv2ray**, یا **Nekobox**.  
 
 ```
 https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/vless_configs.txt
 ```
 
-- 🤖 **ربات Telegram:**  
+🤖 **ربات Telegram:**  
 دسترسی آسان به لیست کانفیگ‌ها از طریق ربات تلگرام 👇  
 [🔹 Telegram Bot – VLESS Config Collector](https://t.me/vlessconfigcollectorbot)
 
@@ -94,6 +93,5 @@ https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/
 <div align="center">
 
 ✨ ساخته‌شده با ❤️ توسط [ما](https://github.com/vlesscollector) ✨  
-📡 قدرت‌گرفته از **GitHub Actions** + **V2Ray**
 
 </div>
