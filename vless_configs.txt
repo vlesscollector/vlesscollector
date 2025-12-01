@@ -1,20 +1,8 @@
-Archive:  Xray-linux-64.zip
-  inflating: LICENSE                 
-  inflating: xray                    
-  inflating: geoip.dat               
-  inflating: geosite.dat             
-  inflating: README.md               
-/root
 vless://0395a16c-cb48-4614-bf19-7bf9ac7aed41@115.190.19.83:29185?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=Ox0EsEq7UYtFUy24Wg3_84XvN4gl3HhH21eX0nPj4x4&sid=689a9a&type=tcp&headerType=none#qoli_887
 vless://237120d4-6f8e-47de-b50c-2c8218a720df@45.88.182.24:25380?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg&sid=d6cd&type=tcp&headerType=none#qoli_626
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?encryption=none&security=tls&sni=hetzner-6.derberg.name.ng&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hetzner-6.derberg.name.ng&path=%2F#qoli_815
 vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@62.113.42.65:27121?encryption=none&security=reality&sni=www.ok.ru&fp=chrome&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&sid=fdc8125ea6f61323&type=tcp&headerType=none#qoli_085
-vless://1eb58333-3051-47c2-a2eb-44e5b64233c8@192.238.204.48:55558?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=LPatmFrK3hRMrtAybjzB7DBfqCaKnKQ6s95kmXrrFxg&sid=b2defcc6&type=tcp&headerType=none#qoli_515
-vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@162.19.175.55:9954?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&type=tcp&headerType=none#qoli_420
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?encryption=none&security=tls&sni=hetzner-9.cfuk.name.ng&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hetzner-9.cfuk.name.ng&path=%2F#qoli_023
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.16.53.11:8443?encryption=none&security=tls&sni=hetzner-9.cfuk.name.ng&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hetzner-9.cfuk.name.ng&path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN#qoli_052
 vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@104.234.4.120:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swdist.apple.com&fp=chrome&pbk=synxygq0ozctiW0jNF1mmvAI9PainW0rBfqe11LkeAM&type=tcp&headerType=none#qoli_062
 vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@45.136.125.215:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cybo.com&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&headerType=none#qoli_102
-vless://b5471668-94dc-4ea5-ae97-3bb9dabcd2a9@216.133.149.139:23581?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=EOYTqph-go2SazIPcSDl5pJGNyOnrR0mWaL8Tc_paEM&type=tcp&headerType=none#qoli_547
 vless://e4b8df56-b680-4a34-ab47-5bf5738ed718@5.181.21.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=v9CxKfIPtkKH1cTGKEer-1i-3JL31vZPpPl2Ujnbjh8&sid=85225c27630d023f&type=tcp&headerType=none#qoli_636
-vless://b964cfbe-5f8a-47ae-9f14-4a6e36bfed2b@154.31.113.124:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594&type=tcp&headerType=none#qoli_211
+vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@45.136.125.217:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cybo.com&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&headerType=none#qoli_104
